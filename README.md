@@ -4,7 +4,10 @@ A sophisticated AI-powered mock interview system that uses 4 specialized agents 
 
 ## System Architecture
 
-The system implements a multi-agent architecture with the following components:
+<img width="740" height="452" alt="Screenshot from 2025-09-30 11-23-46" src="https://github.com/user-attachments/assets/343964ad-d238-439b-bbbb-9252301b9197" />
+
+https://github.com/user-attachments/assets/127995b5-726e-4579-b4a5-173ca705ee5d
+
 
 ### Core Agents
 
