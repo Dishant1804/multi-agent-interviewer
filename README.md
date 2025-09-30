@@ -151,36 +151,6 @@ The system includes sample data files:
 
 You can replace these with your own resume and job description files.
 
-## Troubleshooting
-
-### Common Issues
-
-1. **OpenAI API Key Error**:
-   - Ensure `OPENAI_API_KEY` environment variable is set
-   - Verify the API key is valid and has sufficient credits
-
-2. **File Not Found Errors**:
-   - Ensure `sample_resume.txt` and `sample_job_description.txt` exist
-   - Check file paths are correct
-
-3. **Import Errors**:
-   - Install all required dependencies: `pip install -r requirements.txt`
-   - Ensure Python version is 3.8 or higher
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is part of a technical assignment and is for educational purposes.
-
-## Acknowledgments
-
 - Built with LangChain and OpenAI
 - Implements multi-agent architecture patterns
 - Designed for realistic interview simulation
