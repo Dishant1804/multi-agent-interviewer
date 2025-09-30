@@ -1,0 +1,9 @@
+John Doe
+Senior Software Engineer
+5 years experience
+
+Skills: Python, JavaScript, React, Node.js, AWS, Docker
+Experience:
+- Tech Corp (2020-2023): Led backend development...
+- StartupXYZ (2018-2020): Full-stack development...
+Education: BS Computer Science, State University
